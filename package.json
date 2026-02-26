@@ -575,8 +575,8 @@
 	},
 	"devDependencies": {
 		"@soda/friendly-errors-webpack-plugin": "^1.8.1",
-		"@types/lodash": "^4.17.13",
-		"@types/node": "^20.17.6",
+		"@types/lodash": "^4.17.24",
+		"@types/node": "^20.19.34",
 		"@types/vscode": "^1.93.0",
 		"@typescript-eslint/eslint-plugin": "^5.62.0",
 		"@typescript-eslint/parser": "^5.62.0",
@@ -585,14 +585,14 @@
 		"os-browserify": "^0.3.0",
 		"path-browserify": "^1.0.1",
 		"process": "^0.11.10",
-		"ts-loader": "^9.5.1",
-		"typescript": "^5.6.3",
-		"webpack": "^5.96.1",
+		"ts-loader": "^9.5.4",
+		"typescript": "^5.9.3",
+		"webpack": "^5.105.2",
 		"webpack-cli": "^5.1.4"
 	},
 	"dependencies": {
-		"jsonc-parser": "^3.2.1",
-		"lodash": "^4.17.21",
+		"jsonc-parser": "^3.3.1",
+		"lodash": "^4.17.23",
 		"open": "^8.4.2"
 	}
 }
